@@ -1,7 +1,7 @@
 
 ![linkedin_background_1](https://user-images.githubusercontent.com/93210173/224451604-544df0d0-c155-4883-8714-ee5e74a26e6a.png)
 
-<h1 align="center">Hi 👋, I'm Izhan Ahmed H</h1>
+<h1 align="center">Hi 👋, I'm Izhan </h1>
 <h3 align="center">Code is my second language</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/93210173/224451730-aa096a9c-d795-44e8-b1cc-5dcba7e31174.jpg">
 
