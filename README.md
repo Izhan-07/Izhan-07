@@ -10,12 +10,11 @@
 <p align="left"> <a href="https://twitter.com/h_izhan" target="blank"><img src="https://img.shields.io/twitter/follow/h_izhan?logo=twitter&style=for-the-badge" alt="h_izhan" /></a> </p>
 
 - 🔭 I’m currently working on [Resume Parser](https://github.com/Izhan-07/Resume_parser_ADG)
-- 🌱 I’m currently learning **Code**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning **Deep Leaarning**
+- 👯 I’m looking to collaborate on Machine Learning projects.
+- 🤔 I’m looking for teammate to work in projects.
+- 💬 Ask me about Anything.
 - 📫 How to reach me **izhandazzler@gmail.com**
-- 😄 Pronouns: ...
 - ⚡ Fun fact **Did you know that "404" is not just an error code, but also the number of times a programmer has to try before getting their code to work? Just kidding... maybe.**
 
 <h3 align="left">Connect with me:</h3>
