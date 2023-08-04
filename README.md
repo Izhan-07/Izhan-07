@@ -1,21 +1,16 @@
 
-![linkedin_background_1](https://user-images.githubusercontent.com/93210173/224451604-544df0d0-c155-4883-8714-ee5e74a26e6a.png)
-
 <h1 align="center">Hi 👋, I'm Izhan </h1>
-<h3 align="center">Code is my second language</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/93210173/224451730-aa096a9c-d795-44e8-b1cc-5dcba7e31174.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Izhan-07&label=Profile%20views&color=0e75b6&style=flat" alt="Izhan-07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/h_izhan" target="blank"><img src="https://img.shields.io/twitter/follow/h_izhan?logo=twitter&style=for-the-badge" alt="h_izhan" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Parser](https://github.com/Izhan-07/Resume_parser_ADG)
-- 🌱 I’m currently learning **Deep Leaarning**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on Machine Learning projects.
-- 🤔 I’m looking for teammate to work in projects.
-- 💬 Ask me about Anything.
-- 📫 How to reach me **izhandazzler@gmail.com**
-- ⚡ Fun fact **Did you know that "404" is not just an error code, but also the number of times a programmer has to try before getting their code to work? Just kidding... maybe.**
+- 🤔 I’m looking for a teammate to work in projects.
+- 📫 reach me @ **izhandazzler@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +18,6 @@
 <a href="https://kaggle.com/izhanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="izhanahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/izhan_a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izhan_a1" height="30" width="40" /></a>
 <a href="https://twitter.com/h_izhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_izhan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/izhan_a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="izhan_a7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/izhan_a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="izhan_a1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/izhan_a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="izhan_a1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/izhandazzler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="izhandazzler" height="30" width="40" /></a>
